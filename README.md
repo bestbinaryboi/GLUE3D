@@ -8,12 +8,6 @@
 
 It's an ambitious project I've been working on to prove what's possible on scratch, while helping others learn more about 3D in an easy way. Glue3D is a project programmed completely by me including the layout, the mechanics, and everything else.
 
-### Resources
-
-- **Offical Website**: [glue3d.net](https://glue3d.net/)
-- **Forum**: [forum.glue3d.net](https://forum.glue3d.net/)
-- **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/glue3d)
-
 ## Getting Started
 
 The only thing you need to begin using Glue3D is the .sb3 file provided in this repository. Simply download it by selecting "Code" and "Download ZIP", or if you have git installed, you can use the following
